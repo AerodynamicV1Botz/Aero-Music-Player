@@ -1,7 +1,7 @@
 {
-    "name": "ᴀɴᴏɴダᴍᴜsɪᴄ",
+    "name": "Aero-Music-Player",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/56d1760224589ee370186.jpg",
+    "logo": "https://telegra.ph//file/c6d7af5a8dc30ea72764f.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -35,7 +35,7 @@
       },
       "DURATION_LIMIT_MIN": {
         "description": "Maximum duration that your bot can play in minutes.",
-        "value": "90",
+        "value": "720",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -50,7 +50,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ᴀɴᴏɴ ダ ᴍᴜsɪᴄ",
+        "value": "Aero Music Player",
         "required": false
       },
       "SPOTIFY_CLIENT_ID": {
@@ -65,7 +65,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "1356469075",
+        "value": "1484735126",
         "required": true
       },
       "STRING_SESSION": {
@@ -74,13 +74,13 @@
         "required": true
       },
       "PING_IMG_URL": {
-        "description": "The pic which will be shown when you give the /ping cmd to the bot.",
-        "value": "",
+        "description": "The pic which will be shown when you give the /ping cmd to the bot.You Don't Have Then Leave Blank",
+        "value": "https://telegra.ph//file/c6d7af5a8dc30ea72764f.jpg",
         "required": false
       },
       "START_IMG_URL": {
-        "description": "The pic which will be shown when you /start the bot in private.",
-        "value": "",
+        "description": "The pic which will be shown when you /start the bot in private.You Don't Have Then Leave Blank",
+        "value": "https://telegra.ph//file/c6d7af5a8dc30ea72764f.jpg",
         "required": false
       },
       "HEROKU_API_KEY": {
@@ -94,18 +94,18 @@
         "required": false
       },
       "LOG_GROUP_ID": {
-        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
+        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!.",
         "value": "",
         "required": true
       },
       "SUPPORT_GROUP": {
-        "description": "Link of your support group ! Channel ki id mat daal dena bsdk.",
-        "value": "https://t.me/DevilsHeavenMF",
+        "description": "Link of your support group !",
+        "value": "https://t.me/AerodynamicV1_Promotion",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Link of your telegram channel.",
-        "value": "https://t.me/Akhand_Words",
+        "value": "https://t.me/AerodynamicV1_UPDATE",
         "required": false
       }
     },
