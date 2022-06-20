@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 Aero Music Player 🎵 」──
+    [►Aero Music Player 🎵◄]
 </h2>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="AerodynamicV1Botz/Aero-Music-Player">
+  <img src="https://telegra.ph//file/07ee52d373cbf587d6b88.png">
 </p>
 
 <h3 align="center">
