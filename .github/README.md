@@ -1,22 +1,22 @@
 <h2 align="center">
-    ──「 ᴀɴᴏɴ ダ ᴍᴜsɪᴄ 」──
+    ──「 Aero Music Player 🎵 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
+  <img src="https://telegra.ph//file/c6d7af5a8dc30ea72764f.jpg">
 </p>
 
 <p align="center">
-<a href="https://github.com/AnonymousR1025/AnonXMusic/stargazers"><img src="https://img.shields.io/github/stars/AnonymousR1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/AnonymousR1025/AnonXMusic/network/members"> <img src="https://img.shields.io/github/forks/AnonymousR1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/AnonymousR1025/AnonXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/AerodynamicV1Botz/Aero-Music-Player/stargazers"><img src="https://img.shields.io/github/stars/AerodynamicV1Botz/Aero-Music-Player?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/AerodynamicV1Botz/Aero-Music-Player/network/members"> <img src="https://img.shields.io/github/forks/AnonymousR1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/AerodynamicV1Botz/Aero-Music-Player/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
-<a href="https://github.com/AnonymousR1025/AnonXMusic/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/AnonymousR1025/AnonXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/AnonymousR1025/AnonXMusic/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/AerodynamicV1Botz/Aero-Music-Player?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/36be820a8775f0bfc773e.jpg">
+  <img src="AerodynamicV1Botz/Aero-Music-Player">
 </p>
 
 <h3 align="center">
