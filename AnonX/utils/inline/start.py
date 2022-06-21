@@ -32,7 +32,7 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],[
             InlineKeyboardButton(
                 text="[►New Update Or More🔔◄]",
-                url=f"https://t.me/AerodynamicV1_UPDATE",
+                url="https://t.me/AerodynamicV1_UPDATE",
             )
         ],
      ]
@@ -62,7 +62,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
             InlineKeyboardButton(
                     text="[►Source Code◄]", url=f"{config.UPSTREAM_REPO}"
                 ),InlineKeyboardButton(
-                text="[►Update🔔◄]", url=f"{config.SUPPORT_GROUP}"
+                text="[►Update🔔◄]", url="https://t.me/AerodynamicV1_UPDATE"
             ),
         ],
      ]
