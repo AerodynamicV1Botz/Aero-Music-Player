@@ -75,8 +75,8 @@ node(){
 
 repo(){
 	# Get git repo if the installer is runned standalone
-	[[ ! "Aero-Music-Player" == $(basename -s .git `git config --get remote.origin.url`) ]] &&
-	git clone https://github.com/AerodynamicV1Botz/Aero-Music-Player &&  cd Aero-Music-Player
+	[[ ! "AnonXMusic" == $(basename -s .git `git config --get remote.origin.url`) ]] &&
+	git clone https://github.com/AnonymousR1025/AnonXMusic &&  cd AnonXMusic
 }
 
 
@@ -90,7 +90,7 @@ installation(){
 }
 
 clear
-pprint "Welcome to Aero-Music-Player Setup Installer\n\n"
+pprint "Welcome to AnonXMusic Setup Installer\n\n"
 pprint "If you see any error during Installation Process, Please refer to these files for logs: "
 pprint "\nFor node js errors , Checkout nodelog.txt"
 pprint "\nFor pypi packages errors , Checkout pypilog.txt"
