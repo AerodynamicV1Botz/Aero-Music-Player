@@ -75,8 +75,8 @@ node(){
 
 repo(){
 	# Get git repo if the installer is runned standalone
-	[[ ! "AnonXMusic" == $(basename -s .git `git config --get remote.origin.url`) ]] &&
-	git clone https://github.com/AnonymousR1025/AnonXMusic &&  cd AnonXMusic
+	[[ ! "Aero-Music-Player" == $(basename -s .git `git config --get remote.origin.url`) ]] &&
+	git clone https://github.com/AerodynamicV1Botz/Aero-Music-Player &&  cd Aero-Music-Player
 }
 
 
@@ -90,7 +90,7 @@ installation(){
 }
 
 clear
-pprint "Welcome to AnonXMusic Setup Installer\n\n"
+pprint "Welcome to Aero-Music-Player Setup Installer\n\n"
 pprint "If you see any error during Installation Process, Please refer to these files for logs: "
 pprint "\nFor node js errors , Checkout nodelog.txt"
 pprint "\nFor pypi packages errors , Checkout pypilog.txt"
@@ -132,6 +132,6 @@ MUSIC_BOT_NAME = $mbt
 STRING_SESSION = $string_session
 OWNER_ID = $ownid""" > .env
 clear
-pprint "\n\n\nYour Vars have been saved Successfully!, Thanks for using AnonXMusic Installer, now you can proceed by starting the bot with bash start!"
+pprint "\n\n\nYour Vars have been saved Successfully!, Thanks for using Aero-Music-Player Installer, now you can proceed by starting the bot with bash start!"
 pprint "\n\n\nWant more vars?"
 pprint "\nCheckout config.py and readme.md inside config folder for addtional vars. You can change all images , Thumbs, mode and everything from vars. Have a look towards them\n\n"
