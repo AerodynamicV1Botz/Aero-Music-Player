@@ -132,6 +132,6 @@ MUSIC_BOT_NAME = $mbt
 STRING_SESSION = $string_session
 OWNER_ID = $ownid""" > .env
 clear
-pprint "\n\n\nYour Vars have been saved Successfully!, Thanks for using Aero-Music-Player Installer, now you can proceed by starting the bot with bash start!"
+pprint "\n\n\nYour Vars have been saved Successfully!, Thanks for using AnonXMusic Installer, now you can proceed by starting the bot with bash start!"
 pprint "\n\n\nWant more vars?"
 pprint "\nCheckout config.py and readme.md inside config folder for addtional vars. You can change all images , Thumbs, mode and everything from vars. Have a look towards them\n\n"
