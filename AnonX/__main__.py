@@ -57,16 +57,16 @@ async def init():
         )
     except NoActiveGroupCall:
         LOGGER("AnonX").error(
-            "[ERROR] - \n\nHey Baby, firstly open telegram and turn on voice chat in Logger Group else fu*k off. If you ever ended voice chat in log group i will stop working and users will fu*k you up."
+            "[ERROR] - \n\nHey Dear, firstly open telegram and turn on voice chat in Logger Group else bot off. If you ever ended voice chat in log group i will stop working.."
         )
         sys.exit()
     except:
         pass
     await Anon.decorators()
-    LOGGER("AnonX").info("Music Bot Started Successfully, Now Gib your girlfriend chumt to @AerodynamicV1_OFFICIAL")
+    LOGGER("AnonX").info("Music Bot Started Successfully, Now if you have any doubts ask @AerodynamicV1_OFFICIAL.")
     await idle()
 
 
 if __name__ == "__main__":
     loop.run_until_complete(init())
-    LOGGER("AnonX").info("Stopping Music Bot, Bhakk Bhosdike (Gaand Maraa Tu)")
+    LOGGER("AnonX").info("Stopping Music Bot, Nice Knowing You😇 ")
