@@ -25,7 +25,7 @@ class AnonXBot(Client):
         self.id = get_me.id
         try:
             await self.send_message(
-                config.LOG_GROUP_ID, "**» ᴀɴᴏɴ ダᴍᴜsɪᴄ ʙᴏᴛ sᴛᴀʀᴛᴇᴅ...**"
+                config.LOG_GROUP_ID, "**» Aero Music Player🎵 ʙᴏᴛ sᴛᴀʀᴛᴇᴅ...**"
             )
         except:
             LOGGER(__name__).error(
