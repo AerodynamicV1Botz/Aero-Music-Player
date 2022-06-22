@@ -19,6 +19,8 @@
   <img src="https://telegra.ph//file/07ee52d373cbf587d6b88.png">
 </p>
 
+Fork then deployed directly don't change anything otherwise your bot is not working.
+
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
