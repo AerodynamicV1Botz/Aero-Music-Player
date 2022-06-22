@@ -24,7 +24,7 @@ async def init():
         and not config.STRING5
     ):
         LOGGER("AnonX").error(
-            "WTF Baby ! Atleast add a pyrogram string, How Cheap..."
+            "WTF Dear ! Atleast add a pyrogram string, How Cheap..."
         )
         return
     if (
