@@ -181,14 +181,14 @@ async def start_comm(client, message: Message, _):
                 )
     else:
         try:
-            await app.resolve_peer(OWNER_ID[0])message.reply_sticker("CAACAgUAAxkBAAIjVmKPYTFByKZlCo9d8mUv8QVAJEw7AAL9BQACiy14VGoQxOCDfE1KJAQ")
+            await app.resolve_peer(OWNER_ID[0])
             OWNER = OWNER_ID[0]
         except:
             OWNER = None
         out = private_panel(_, app.username, OWNER)
         if config.START_IMG_URL:
             try:
-                await 
+                await message.reply_sticker("CAACAgUAAxkBAAIjTGKPYCq3keRZgNbshxtJ5k7H609OAAIZBgACYAF5VIerYoMcSln8JAQ")
                 await message.reply_photo(
                     photo=config.START_IMG_URL,
                     caption=_["start_2"].format(
