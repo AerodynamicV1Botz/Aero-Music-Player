@@ -21,6 +21,9 @@
 
 Fork then deployed directly don't change anything otherwise your bot is not working.
 
+<h4> Generate String Session : </h4>    
+<p><a href="https://telegram.me/String_Session_Generate_AeroBot?lite=1&outputonly=1#main.py"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="350""/></a></p>
+
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
